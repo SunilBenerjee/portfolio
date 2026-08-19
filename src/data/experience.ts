@@ -10,7 +10,7 @@ export const experience: ExperienceItem[] = [
   {
     company: "Volmint Technologies",
     role: "Full Stack Developer",
-    period: "[Mon YYYY] – Present",
+    period: "February 2024 – Present",
     current: true,
     points: [
       "Developing full-stack web applications end-to-end",
@@ -29,7 +29,7 @@ export const experience: ExperienceItem[] = [
   {
     company: "Get Delivered",
     role: "Laravel Developer",
-    period: "[Mon YYYY] – [Mon YYYY]",
+    period: "October 2023 – January 2024",
     points: [
       "Built and maintained features using the Laravel framework",
       "Worked on backend logic and database-driven functionality",
@@ -38,7 +38,7 @@ export const experience: ExperienceItem[] = [
   {
     company: "Travelsees",
     role: "PHP Developer",
-    period: "[Mon YYYY] – [Mon YYYY]",
+    period: "October 2022 – September 2023",
     points: [
       "Developed and maintained PHP-based web applications",
       "Worked across backend features and bug fixes",
@@ -47,7 +47,7 @@ export const experience: ExperienceItem[] = [
   {
     company: "Panel Software Solutions",
     role: "PHP Developer Intern",
-    period: "[Mon YYYY] – [Mon YYYY]",
+    period: "September 2021 – December 2021",
     points: [
       "Assisted in building PHP-based application features",
       "Gained hands-on experience with real-world codebases",

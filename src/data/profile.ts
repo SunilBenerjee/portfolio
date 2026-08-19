@@ -1,5 +1,20 @@
+export const focusAreas = [
+  "Backend architecture",
+  "REST APIs",
+  "Authentication & authorization",
+  "Database design",
+  "Admin panels",
+  "Real-time applications",
+  "WebRTC",
+  "Third-party integrations",
+  "Payment gateways",
+  "Cloud deployment",
+  "Performance optimization",
+  "Scalable architecture",
+];
+
 export const profile = {
-  name: "Sunil Benerjee",
+  name: "Sunil Benarjee",
   role: "Full Stack Software Developer",
   roleShort: "Full Stack Developer / Full Stack Engineer",
   location: "Delhi, India",
@@ -10,7 +25,7 @@ export const profile = {
     completed: "December 2024",
   },
   github: "https://github.com/SunilBenerjee",
-  email: "your-email@example.com",
+  email: "sunil.benerjee730@gmail.com",
   headline: "Building scalable web applications and real-world software systems.",
   subheadline:
     "Full Stack Developer with 3+ years of experience building production-ready applications using Laravel, Node.js, Next.js, Vue.js, databases, cloud infrastructure, real-time communication, and third-party APIs.",

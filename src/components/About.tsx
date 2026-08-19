@@ -1,22 +1,7 @@
-import { profile } from "@/data/profile";
+import { profile, focusAreas } from "@/data/profile";
 import { Container } from "./ui/Container";
 import { RevealOnScroll } from "./ui/RevealOnScroll";
 import { SectionHeading } from "./ui/SectionHeading";
-
-const focusAreas = [
-  "Backend architecture",
-  "REST APIs",
-  "Authentication & authorization",
-  "Database design",
-  "Admin panels",
-  "Real-time applications",
-  "WebRTC",
-  "Third-party integrations",
-  "Payment gateways",
-  "Cloud deployment",
-  "Performance optimization",
-  "Scalable architecture",
-];
 
 export function About() {
   return (
