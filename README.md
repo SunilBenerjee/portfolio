@@ -2,7 +2,7 @@
 
 Personal portfolio site built with Next.js (App Router), React, TypeScript, and Tailwind CSS.
 
-Live at: https://sunilbenarjee-portfolio.vercel.app
+Live at: https://sunilbenarjeeportfolio.vercel.app/
 
 ## Getting Started
 
